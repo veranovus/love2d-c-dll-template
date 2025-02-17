@@ -23,7 +23,7 @@ Unfortunately, there are no official pre-compiled binaries of LuaJIT for Windows
 If you already have MSVC, you can compile LuaJIT by following these steps:
 
 1. Download the latest LuaJIT repository or clone it by running `git clone https://luajit.org/git/luajit.git`
-2. Open an VS Developer Command Prompt from Windows Terminal.
+2. Open a VS Developer Command Prompt from Windows Terminal.
 3. `cd C:\Your\Path\To\luajit\src`
 4. `.\msvcbuild.bat`
 
