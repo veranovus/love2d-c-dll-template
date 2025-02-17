@@ -40,7 +40,7 @@ Afterwards, get the necessary files listed below and store them in your project 
 
 Finally, copy the `lua51.dll` into where Love2D is located on your computer.
 
-## Compiling DLL & Running
+## Compiling the DLL
 
 I use [zig](https://ziglang.org/download/) for building my C projects, and I've provided a `build.zig` file in the repository, but you can use anything you wish. If you wish to use Zig, you can simply compile the DLL via this command:
 ```
